@@ -7,4 +7,4 @@ all:
 
 .PHONY: clean
 clean:
-        rm -f *.o ${TARGET} ${TARGET_2}
+       rm -f *.o ${TARGET} ${TARGET_2}
